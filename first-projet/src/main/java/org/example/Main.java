@@ -14,7 +14,7 @@ public class Main {
         System.out.println("O valor da variável é: " + numero);
 
         // Modifica o valor da variável
-        numero = 100;
+        numero = numero + 50;
 
         // Imprime o novo valor da variável
         System.out.println("O novo valor da variável é: " + numero);
